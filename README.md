@@ -7,7 +7,7 @@ Welcome to my page.
 I’m Hilbert.Fullstack developer from China.
 
 ## Technology stack
-![](https://img.shields.io/badge/Go-blue?style=plastic&logo=Go)
+![](https://img.shields.io/badge/Go-blue?style=flat&logo=Go)
 
 ---
 
