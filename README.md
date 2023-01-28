@@ -9,8 +9,9 @@ I’m Hilbert.Fullstack developer from China.
 ## Technology stack
 ![](https://img.shields.io/badge/Go-blue?style=flat&logo=Go)
 ![](https://img.shields.io/badge/Gin-blue?style=plastic&logo=gin)
-## Device
+## Main OS:
 ![](https://img.shields.io/badge/Archlinux-blue?style=plastic&logo=Archlinux)
+![](https://img.shields.io/badge/GNOME-orange?style=plastic&logo=gnome)
 
 ---
 
