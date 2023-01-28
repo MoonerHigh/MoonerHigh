@@ -11,6 +11,5 @@ I’m Hilbert.Fullstack developer from China.
 ![](https://img.shields.io/badge/Archlinux-blue?style=plastic&logo=Archlinux)
 ![](https://img.shields.io/badge/GNOME-orange?style=plastic&logo=gnome)
 
-![](https://pic.imgdb.cn/item/63d51249face21e9ef559789.png)
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=moonerhigh&theme=github)
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=moonerhigh" /> </div>
