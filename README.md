@@ -14,6 +14,7 @@ I’m Hilbert.Fullstack developer from China.
 ![https://img.shields.io/badge/Javascript-green?style=flat&logo=Javascript](https://img.shields.io/badge/Javascript-green?style=flat&logo=Javascript)
 ![https://img.shields.io/badge/JQuery-green?style=flat&logo=JQuery](https://img.shields.io/badge/JQuery-green?style=flat&logo=JQuery)
 ![https://img.shields.io/badge/Vue-gold?style=flat&logo=Vue.js](https://img.shields.io/badge/Vue-gold?style=flat&logo=Vue.js)
+![https://img.shields.io/badge/Linux-olive?style=flat&logo=Linux](https://img.shields.io/badge/Linux-olive?style=flat&logo=Linux)
 ## Main OS:
 ![](https://img.shields.io/badge/Archlinux-blue?style=plastic&logo=Archlinux)
 ![](https://img.shields.io/badge/GNOME-orange?style=plastic&logo=gnome)
