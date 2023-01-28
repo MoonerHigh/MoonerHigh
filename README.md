@@ -4,7 +4,7 @@ Welcome to my page.
 
 I’m Hilbert.Fullstack developer from China.
 
-## Technology stack
+## Tech Stack
 ![](https://img.shields.io/badge/Go-blue?style=flat&logo=Go)
 ![](https://img.shields.io/badge/Gin-blue?style=flat&logo=gin)
 ![https://img.shields.io/badge/Java-orange?style=flat&logo=Java](https://img.shields.io/badge/Java-orange?style=flat&logo=Java)
