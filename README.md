@@ -11,6 +11,9 @@ I’m Hilbert.Fullstack developer from China.
 ![https://img.shields.io/badge/Spring-green?style=flat&logo=spring](https://img.shields.io/badge/Spring-green?style=flat&logo=spring)
 ![https://img.shields.io/badge/Docker-blue?style=flat&logo=Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=Docker)
 ![https://img.shields.io/badge/Kubernetes-white?style=flat&logo=Kubernetes](https://img.shields.io/badge/Kubernetes-white?style=flat&logo=Kubernetes)
+![https://img.shields.io/badge/Javascript-green?style=flat&logo=Javascript](https://img.shields.io/badge/Javascript-green?style=flat&logo=Javascript)
+![https://img.shields.io/badge/JQuery-green?style=flat&logo=JQuery](https://img.shields.io/badge/JQuery-green?style=flat&logo=JQuery)
+![https://img.shields.io/badge/Vue-gold?style=flat&logo=Vue.js](https://img.shields.io/badge/Vue-gold?style=flat&logo=Vue.js)
 ## Main OS:
 ![](https://img.shields.io/badge/Archlinux-blue?style=plastic&logo=Archlinux)
 ![](https://img.shields.io/badge/GNOME-orange?style=plastic&logo=gnome)
