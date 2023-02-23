@@ -4,7 +4,7 @@ Welcome to my page.
 
 <div align="center">
 	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+	<img src="https://github.com/MoonerHigh/MoonerHigh/blob/master/img/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 
 I’m Hilbert.Fullstack developer from China.
