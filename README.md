@@ -29,6 +29,14 @@ I’m Hilbert.Fullstack developer from China.
 ![](https://img.shields.io/badge/GNOME-orange?style=plastic&logo=gnome)
 ![](https://github.com/MoonerHigh/MoonerHigh/blob/master/img/Tools.png)
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+
 <!--END_SECTION:waka-->
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=moonerhigh&theme=github)
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=moonerhigh" /> </div>
