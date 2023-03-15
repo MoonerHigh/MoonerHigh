@@ -27,7 +27,6 @@ I’m Hilbert.Fullstack developer from China.
 ## Main OS:
 ![](https://img.shields.io/badge/Archlinux-blue?style=plastic&logo=Archlinux)
 ![](https://img.shields.io/badge/GNOME-orange?style=plastic&logo=gnome)
----
 ![](https://raw.githubusercontent.com/MoonerHigh/githubSNK/b40d34df24d9c6ea579f98aef975c46851c581b2/github-contribution-grid-snake.svg)
 
 ![](https://github.com/MoonerHigh/MoonerHigh/blob/master/img/Tools.png)
