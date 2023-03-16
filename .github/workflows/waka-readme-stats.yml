@@ -27,7 +27,7 @@ jobs:
           # 一周提交统计
           SHOW_DAYS_OF_WEEK: False
           # 操作系统
-          SHOW_OS: False
+          SHOW_OS: True
           # 项目
           SHOW_PROJECTS: False
           # 时区
