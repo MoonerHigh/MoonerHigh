@@ -46,6 +46,10 @@ YAML                     9 mins              ░░░░░░░░░░░�
 Windows                  43 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/MoonerHigh/MoonerHigh/master/assets/bar_graph.png)
+
 
 <!--END_SECTION:waka-->
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=moonerhigh&theme=github)
