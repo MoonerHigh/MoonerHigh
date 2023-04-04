@@ -35,7 +35,7 @@ jobs:
           # 主要编写
           SHOW_LANGUAGE_PER_REPO: False
           # 时间线
-          SHOW_LOC_CHART: False
+          SHOW_LOC_CHART: True
           # 末尾更新日期
           SHOW_UPDATED_DATE: False
           # 语言
