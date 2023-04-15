@@ -1,13 +1,9 @@
-# Hey! Nice to see you.👋
+# 写在前面
 
-Welcome to my page.
-
-<div align="center">
-	<br>
-	<img src="https://github.com/MoonerHigh/MoonerHigh/blob/master/img/pacman.svg?sanitize=true" width="200" height="200">
-</div>
-
-I’m Hilbert.Fullstack developer from China.
+欢迎大家来到我的Github主页！
+我有代码洁癖，希望精益求精。技术未必好，秉持匠人精神。
+知是行的意识，行是知的功夫，希望自己不断成长。
+谢谢！
 
 ## Tech Stack
 ![https://img.shields.io/badge/Go-blue?style=flat&logo=Go](https://img.shields.io/badge/Go-blue?style=flat&logo=Go)
