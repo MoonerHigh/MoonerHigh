@@ -45,11 +45,6 @@ Windows                  59 hrs 22 mins      ███████████�
 Linux                    1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/MoonerHigh/MoonerHigh/master/assets/bar_graph.png)
-
-
 <!--END_SECTION:waka-->
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=moonerhigh&theme=github)
 <div align="center"> <img src="https://profile-counter.glitch.me/MoonerHigh/count.svg"/> </div>
