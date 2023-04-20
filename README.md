@@ -1,8 +1,6 @@
 # 欢迎大家来到我的Github主页！
 
-我有代码洁癖，希望精益求精。技术未必好，秉持匠人精神。<br/>
-知是行的意识，行是知的功夫，希望自己不断成长。<br/>
-谢谢！
+知是行的意识，行是知的功夫
 
 ## Tech Stack
 ![https://img.shields.io/badge/Go-blue?style=flat&logo=Go](https://img.shields.io/badge/Go-blue?style=flat&logo=Go)
