@@ -1,12 +1,9 @@
 # 欢迎大家来到我的Github主页！
 
-<div>
-    <p>知是行的意识，行是知的功夫</p>
-</div>
-<div align="right">
-    <img src="https://github-readme-stats.vercel.app/api?username=MoonerHigh&show_icons=true&theme=tokyonight">
-</div>
-
+<a href="https://github.com/MoonerHigh">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoonerHigh&theme=buefy&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonerHigh&theme=buefy&layout=compact" />
+</a>
 ## Tech Stack
 ![https://img.shields.io/badge/Go-blue?style=flat&logo=Go](https://img.shields.io/badge/Go-blue?style=flat&logo=Go)
 ![https://img.shields.io/badge/Gin-blue?style=flat&logo=gin](https://img.shields.io/badge/Gin-blue?style=flat&logo=gin)
