@@ -47,4 +47,4 @@ Linux                    1 hr 15 mins        █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=moonerhigh&theme=github)
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=moonerhigh" /> </div>
+![Visitor Count](https://profile-counter.glitch.me/MoonerHigh/count.svg)
