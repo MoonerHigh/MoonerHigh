@@ -31,11 +31,10 @@
 
 ```text
 💬 Programming Languages: 
-Java                     2 hrs 53 mins       ███████████████████████░░   91.46 % 
-SQL                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 9 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
