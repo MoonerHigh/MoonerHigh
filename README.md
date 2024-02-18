@@ -31,10 +31,11 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 30 mins        ████████████████████████░   97.76 % 
+HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 32 mins        █████████████████████████   100.00 % 
 ```
 
 **Timeline**
