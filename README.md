@@ -1,4 +1,4 @@
-# Welcome to my Github!
+# 👋 Welcome to my GitHub! Explore my projects and join me in building amazing things together. 🚀✨
 <a href="https://github.com/MoonerHigh">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoonerHigh&theme=buefy&show_icons=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonerHigh&theme=buefy&layout=compact" />
