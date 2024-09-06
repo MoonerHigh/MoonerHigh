@@ -31,11 +31,10 @@
 
 ```text
 💬 Programming Languages: 
-Java                     53 mins             █████████████████████████   99.89 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
