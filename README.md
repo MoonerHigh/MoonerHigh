@@ -27,6 +27,19 @@
 ![](https://github.com/MoonerHigh/MoonerHigh/blob/master/img/Tools.png)
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Java                     0 secs              ████████████████░░░░░░░░░   64.29 % 
+SQL                      0 secs              ███████░░░░░░░░░░░░░░░░░░   29.14 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+
+💻 Operating System: 
+Windows                  0 secs              █████████████████████████   100.00 % 
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/MoonerHigh/MoonerHigh/master/assets/bar_graph.png)
