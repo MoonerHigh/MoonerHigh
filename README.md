@@ -27,6 +27,16 @@
 ![](https://github.com/MoonerHigh/MoonerHigh/blob/master/img/Tools.png)
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/MoonerHigh/MoonerHigh/master/assets/bar_graph.png)
