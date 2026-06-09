@@ -31,10 +31,11 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     2 mins              ███████████████████████░░   92.89 % 
+YAML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **Timeline**
