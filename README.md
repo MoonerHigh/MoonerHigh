@@ -31,11 +31,11 @@
 
 ```text
 💬 Programming Languages: 
-Java                     2 mins              ███████████████████████░░   92.89 % 
-YAML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+Java                     2 mins              ███████████████████████░░   93.66 % 
+YAML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 **Timeline**
